@@ -1,0 +1,31 @@
+.sticky_nav {
+  position: fixed;
+  background-color: #243c5a;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  z-index: 100;
+}
+
+.nav_content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav_links {
+  margin-left: 20px;
+}
+
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  color: whitesmoke;
+  margin-right: 10px;
+}
+
+.titleImage {
+  margin-left: 30px;
+  margin-top: 5px;
+}

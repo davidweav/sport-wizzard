@@ -1,0 +1,17 @@
+{
+  "Comment": "sportwizzard",
+  "Changes": [
+    {
+      "Action": "CREATE",
+      "ResourceRecordSet": {
+        "Name": "@.sportwizzard.com",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z06246771KYU0IRHI74W4",
+          "DNSName": "sport-wizzard-flask-service.bgt9kl0b2bhd4.us-east-1.cs.amazonlightsail.com",
+          "EvaluateTargetHealth": true
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+}
+
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  color: whitesmoke;
+  height: 20px;
+  width: 40px;
+}
+
+.link:hover {
+  cursor: pointer;
+}
